@@ -1,5 +1,5 @@
 {
-  "name": "creative-ones-com/laravel-scout-elastic",
+  "name": "tamayo/laravel-scout-elastic",
   "description": "Elastic Driver for Laravel Scout",
   "license": "MIT",
   "authors": [
